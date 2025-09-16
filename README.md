@@ -100,4 +100,28 @@ Entertainment → "Tell me a joke", "Play music", "Open YouTube"
 
 Camera & Recording → "Take a selfie", "Record webcam video for 10 seconds"
 
+**🔮 Future Improvements**
 
+Smarter AI Chatbot → Integrate with Gemini API / GPT for natural conversations
+
+Personalized Assistant → Save user preferences (e.g., favorite apps, locations, reminders)
+
+Reminder & Calendar Integration → Set alarms, events, and reminders with Google Calendar API
+
+Email & Messaging Support → Send/Read emails, WhatsApp, or SMS using voice commands
+
+Home Automation → Control IoT devices (smart lights, fans, AC) via Google Home / MQTT
+
+Offline Mode → Enable limited functionality without internet (math, system control, apps)
+
+Continuous Listening → Background wake word detection (“Hey Vortex”)
+
+Improved Security → Voice recognition & authentication before executing sensitive commands
+
+Web Dashboard → GUI to configure commands, view logs, and track system stats
+
+Plugin System → Let users add custom commands easily without editing core code
+
+Multi-language Support → Add support for commands in Hindi, Spanish, etc.
+
+Mobile Companion App → Control PC via a connected mobile app
