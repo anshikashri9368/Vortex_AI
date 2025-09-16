@@ -7,15 +7,25 @@ It helps you interact with your digital world through voice commands – from so
 **🚀 Features**
 
 ✅ Speech Recognition & Voice Output – Talk to Vortex naturally
+
 ✅ Smart Introductions – Time-based greetings
+
 ✅ Date & Age Handling – Ask about today’s date, weekdays, or calculate age
+
 ✅ Application & Website Control – Open apps and favorite websites by voice
+
 ✅ Mathematical Solver – Handles arithmetic, square roots, trigonometry, logs, and more
+
 ✅ Entertainment – Tells jokes, plays music, controls YouTube searches
+
 ✅ Screenshots & Recording – Take screenshots, screen recordings, selfies, and webcam videos
+
 ✅ Weather Updates – Get real-time weather info with safety precautions (OpenWeather API)
+
 ✅ News Headlines – Fetch top news by topic and country (NewsAPI)
+
 ✅ System Control – Shutdown, restart, log off, sleep, and monitor CPU/RAM/Disk usage
+
 ✅ Proactive Monitoring – Warns you about high resource usage or low disk space
 
 **🛠️ Tech Stack**
@@ -70,7 +80,8 @@ Replace NEWS_API_KEY with your NewsAPI Key → Get one here
 Run the assistant
 
 python vortex.py
-**
+
+
 **🎤 Example Commands****
 
 Introduction → "Who are you?"
